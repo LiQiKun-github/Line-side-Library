@@ -6,6 +6,10 @@ Widget::Widget(QWidget *parent) :
     ui(new Ui::Widget)
 {
     ui->setupUi(this);
+    //ui->accountLineEdit->setStyleSheet("border: none;");
+
+
+
     mainWindow = new MainWindow();
     registerWidget = new RegisterWidget();
     connect(this,Widget::openWindows,mainWindow,MainWindow::openWindows);
