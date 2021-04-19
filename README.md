@@ -3,4 +3,4 @@
 
 QT版本：5.9.0
 
-笔记本git环境再次测试
+QT连接mysql：https://www.codeprj.com/blog/a950671.html
