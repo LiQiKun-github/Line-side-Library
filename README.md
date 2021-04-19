@@ -3,7 +3,7 @@
 
 QT版本：5.9.0
 
-QT连接mysql：https://www.codeprj.com/blog/a950671.html
+QT连接mysql：https://www.pianshen.com/article/6718917760/
 
 ```
 #include "widget.h"
